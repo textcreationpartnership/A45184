@@ -1,0 +1,580 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bow of Jonathan with the flower de Luce in a funeral lamentation committed to the men of Judah : parallelled and applyed to that worthy his compeere Robert Lucy of Charlcote in the county of Warwick, Esquire, lately deceased : in a sermon preached at Charlcote / by Richard Hunt ...</title>
+            <author>Hunt, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45184</idno>
+            <idno type="STC">Wing H3741</idno>
+            <idno type="STC">ESTC R32357</idno>
+            <idno type="EEBO-CITATION">12643446</idno>
+            <idno type="OCLC">ocm 12643446</idno>
+            <idno type="VID">65070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1528:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bow of Jonathan with the flower de Luce in a funeral lamentation committed to the men of Judah : parallelled and applyed to that worthy his compeere Robert Lucy of Charlcote in the county of Warwick, Esquire, lately deceased : in a sermon preached at Charlcote / by Richard Hunt ...</title>
+                  <author>Hunt, Richard.</author>
+               </titleStmt>
+               <extent>[8], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLV11 [1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucy, Robert.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65070:1"/>
+            <pb facs="tcp:65070:1"/>
+            <p>
+               <hi>The BOW of JONATHAN</hi> WITH <hi>The FLOWER de L<g ref="char:V">Ʋ</g>CE:</hi> IN A FUNERAL LAMENTATION Committed to the men of <hi>Judah:</hi> Parallelled and applyed to that Worthy his Compeere <hi>ROBERT L<g ref="char:V">Ʋ</g>CY</hi> Of CHARLCOTE in the County of <hi>Warwick</hi> ESQUIRE Lately Deceaſed: In a SERMON preached at <hi>Charlcote</hi> By <hi>RICHARD HUNT,</hi> B. D. And Paſtor of <hi>Biſhops-Ichington.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid, M.DC.LVII.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65070:2"/>
+            <pb facs="tcp:65070:2"/>
+            <head>
+               <hi>To the truely Honoured</hi> MARGARET L<g ref="char:V">Ʋ</g>CY, <hi>The dear CONSORT and now right ſorrowful Relict of</hi> ROBERT L<g ref="char:V">Ʋ</g>CY, <hi>
+                  <abbr>Eſq</abbr> DECEASED: And, to the Brethren, Siſters, and Friends of that renowned Family of</hi> CHARLCOTE: <hi>Be Joy, Comfort, and Salvation in Chriſt Jeſus.</hi>
+            </head>
+            <opener>
+               <salute>My noble Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Piece of <hi>Jonathans Bow,</hi> and its <hi>Parallel</hi> in a rural expreſſion, might both have been laid up in the Book of <hi>Jaſher,</hi> in ſome ob<g ref="char:EOLhyphen"/>ſcurer corner, and unknown, and the Author deſervedly (like the <hi>Latinian</hi> Shepherd) have ever ſlept in ſome more ſolitary cave, had not the fair aſpect of your merit and importunity ſtooped ſo low as to make the ſpeakers lips your favourite to bring this work to light, which now like <hi>Memnon</hi>'s Statue, the Son of the morning, is ſo framed of dark marble, that the riſing Sun of the <hi>LUCY</hi>'s name caſting its beams upon it, makes it to render a reſplendent image of it ſelf, with a mournful ſound in lamentation for
+<pb facs="tcp:65070:3"/>its Maſter; and may theſe Notes flying abroad become as Funeral Birds, each morning to bewail the loſs of ſo true deſerving a perſon; for nothing is more to be con<g ref="char:EOLhyphen"/>dol'd, or moving humane compaſſion, than a Son of the morning to be ſuddenly interpoſed with darkneſs, and a flower of the light ſoon blaſted and withered in the blooming,
+<note place="margin">Bacon. de Sap. vet. cap. 14.</note> as the learned Lord <hi>Verulam</hi> makes the mo<g ref="char:EOLhyphen"/>ral: I cannot therefore blame your mourning Blacks and Cypreſſes, much leſs your Tears and Sorrows, when I read of a <hi>Turquois</hi> ſtone that would gliſter and look bright upon the Living owners finger,
+<note place="margin">Caufin. Embl. li. 11. c. 54.</note> but at his Death to have chang'd his colour into lowring and ſweating tears, as ſenſible of the loſs. The Darling of the time, this lovely youthful Gentleman, is chang'd into a Cypreſs tree, whoſe boughs and bark lopt and cut down by Death, bids you take hence your mourning wreaths, the funeral rites belonging as conſecrate to the Death and Obits of the nobler ſort; which wood will entertain no moth or timber-worm of vice to breed or thrive upon it, and once cut down, revives no more but in ſucceeding plants; <hi>Veſpaſian</hi> miracles, faln over night, and reflouriſhing more fixt and green the next morning in its followers: of whom, the next in league is you Dame <hi>MARGARET,</hi> his dear and onely Spouſe, who amidſt the Ladies boaſt<g ref="char:EOLhyphen"/>ing of their tyre and jewels,
+<note place="margin">Plutarch. in Phocion.</note> might with the <hi>Grecian</hi> Dame ſhew forth your Husband, and ſay for you and him, <hi>Hic eſt ornatus meus;</hi> Loe, here's my richeſt ornament and jewel. Your ſweet conjunction, and con<g ref="char:EOLhyphen"/>jugal affection drew forth your beholders and your coun<g ref="char:EOLhyphen"/>tries hearts to vote that this Sun might ſtand ſtill in <hi>Gibeon,</hi>
+               <note place="margin">Joſh. 10.12.</note> and this Moon in the valley of <hi>Ajalon.</hi> But Divine pleaſure hath forbidden that,
+<note place="margin">Ovid. Met. 1.11. fab. 10.</note> and parted the two Kingfiſhers of Love and Delight, and left you without
+<pb facs="tcp:65070:3"/>your Mate, to bewail your condition, as now widowed and bereav'd of your companion. <hi>Fonſeca</hi> the <hi>Spaniſh</hi> Frier will teach you n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to lay aſide perfumes of Amber<g ref="char:EOLhyphen"/>greece, and Nuptial garments, and to ſmell of Frankin<g ref="char:EOLhyphen"/>cenſe and Prayers at viſits of your Husbands tombe;
+<note place="margin">Lent. Ser. 18. Luc. 7.11.</note> to dreſs your windows, not with roſes, violets, and panſies, or love and idleneſs, but with the herbs and flowers of <hi>Artemiſia,</hi> that Motherwort, of mortifying thoſe affe<g ref="char:EOLhyphen"/>ctions; bearing the name of her who by drinking each day a ſpoonful of her Husbands aſhes for a Mornings draught, at laſt made again two bodies into one, and en<g ref="char:EOLhyphen"/>tomb'd him in her owne bowels.
+<note place="margin">
+                  <hi>De viduis.</hi> 1 Tim. 5.4, 5.</note> St. <hi>Ambroſe</hi> hath many comely precepts for the Widows, ſecond to S. <hi>Paul</hi>'s, and ſeemeth to correct the Poets fancy, that Widows ſhould be changed into Birds called <hi>Kingfiſhers,</hi> with greeniſh feathers, and a ruddy beak, and face, as ill-beſeeming that condition to fly abroad with new green fancies, and to ſhew their face too full of ſanguine amo<g ref="char:EOLhyphen"/>rous complexion. I have ſhewed you a more excellent way: Learn by this your ſad experience, the truth of that <hi>Hebrew</hi> Proverb,
+<note place="margin">Druſ. probl. 5. claſ. 1.</note> 
+               <hi>The Bride gets up into the Marriage-bed, and little wots 'twil prove her Bride<g ref="char:EOLhyphen"/>groomes Death-bed:</hi> At the Wedding therefore they uſe to take a Glaſs, wherein both drink, to begin their joys; but then they break it,
+<note place="margin">Idem li. 2. queſt. 9.</note> to denote the brittle condition of the Marriage-bonds, and how ſoon it may be da'ſhd to pieces. S. <hi>Francis</hi> alſo ſomewhat minding this, was wont to make him Wife and Children of the ſnow, fair, but ſoon fading comforts. Fancy you ſo of Husbands, and their Iſſue, twill wean your mind the more from all ſuch worldly allurements and relations. This Text of <hi>Jonathan</hi> will tell you they are but Butts or Prickmarks ſtanding within a dangerous diſtance, and at the mercy
+<pb facs="tcp:65070:4"/>of Death: and all the glory of Youth, Beauty, Valour, and Wealth, high places of Honor, and Relations of Friends, wherein the pride of heart doth flant it out, is by the true confeſſion of the Gallants in <hi>Solomon, like an arrow which parteth the air,
+<note place="margin">Wiſd. 5.12.</note> and immediately cometh together again, and a man knows not where it went thorough.</hi> And you my honoured Friends, Pardon I pray you the Enquiry, my affection led me into the Ark and carriage of your Anceſtors, leſt mine eye may ſeem too curious to peep into, or my hand too raſh and preſumptuous to be laid upon it, it is your due, and more if I could do it;
+<note place="margin">Mr. <hi>Dugdal</hi>'s Warwickſhr.</note> our induſtrious Chorographer will make it out.</p>
+            <p>The ſhort and ſumme of all I ſhall humbly preſent to your thoughts, is contained in that ancient Proverb, <hi>Parate vos in veſtibulo, ut ingrediamini conclave,</hi> Dreſs you ſo in the Gatehouſe, that you may enter into Chriſts withdrawing Cloſet;
+<note place="margin">Heb. Prov.</note> for he that labours the ſix dayes of this life, may eat and reſt on the Seventh, his perpetual Sabbath. This will be done by obſerving of the beſt Examples, and the beſt you hear or ſaw exem<g ref="char:EOLhyphen"/>plary in your deceaſed Brother, Fidelity in Truſt, love to Virtue, Humanity to his Friends, Bounty to the Poor, Providence in his Affairs, Welcome to his Relations, Humility in his deportments, Kindneſs to Bro<g ref="char:EOLhyphen"/>thers and Siſters, Innocency to his Neighbours, Love to all; in which incomparably your Anceſtors are known to have excell'd,
+<note place="margin">Holcot. on Wiſd. 5. Lect. 66.</note> and left a light for you to follow. An old Archer, and good Marks-man, to allude to the Leſſon of my Text, will adviſe you further, and bids, Beware of three arrows in Satans quiver,
+<note place="margin">Rev. 6.2. 2 Kin. 13.16.</note> 
+               <hi>1.</hi> Carnal concu<g ref="char:EOLhyphen"/>piſcence, <hi>2.</hi> Envious detraction, <hi>3.</hi> Whiſpering ſuggeſtion; theſe wounded not his Liver, Eyes, or Ears.
+<pb facs="tcp:65070:4"/>The quiver of Chriſt puts three better into your hands: The <hi>1.</hi> is the Light of Scripture, in this the Man of God muſt guide and give you aim. <hi>2.</hi> Is the Death of Nature, this directs you to the life of grace. The <hi>3.</hi> is the day of Cenſure, which keeps you in the fear of God. The three firſt of Satans arrows he was free from, and afraid of: The three laſt he was much exerciſed in, and well acquainted with, his Example he hath bequeathed to you. The Legacy, Dear Miſtris, he hath left to you is compriſed in three Counſels, <hi>Have Purity in your Religion,
+<note place="margin">Erpenius Arab. Prov.</note> Patience in your Condi<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Prudence in your Converſation.</hi> To you all, and as many as follow theſe Rules, peace be upon them, and mercy, and upon the <hi>Iſrael</hi> of God;
+<note place="margin">Gal. 6.16.</note> which is in fine the vote of</p>
+            <closer>
+               <signed>
+                  <hi>Your loving Countryman, and humble Servant in Chriſt Jeſus,</hi>
+                  <hi>RICHARD HUNT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65070:5"/>
+            <pb n="1" facs="tcp:65070:5"/>
+            <head>JONATHANS BOW.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 SAM. 25.26.</hi>
+                  </bibl>
+                  <p>Oh <hi>Jonathan!</hi> thou waſt ſlaine in thine high places; I am diſtreſſed for thee my Brother <hi>Jonathan,</hi> very pleaſant haſt thou been un<g ref="char:EOLhyphen"/>to me, thy love to me was wonderful, paſſing the love of women.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T was a ſolemn cuſtome of the Hebrews, to viſit the graves of their Friends, thereby to re<g ref="char:EOLhyphen"/>mind themſelves of their mor<g ref="char:EOLhyphen"/>talitie;
+<note place="margin">
+                  <hi>Novarin, ſche<g ref="char:EOLhyphen"/>daſ. lib.</hi> 5. <hi>ſect.</hi> 73.</note> and the Bells of <hi>Aarons</hi> prieſtly coat were placed in the fringe and bottome of his gar<g ref="char:EOLhyphen"/>ment; to ſignifie to the people,
+<note place="margin">
+                  <hi>Origen.</hi> in Exod. 28.</note> that their paſſing-bell was alwayes tolling, that they might conſider their latter ends, the bottome of life to them, and the judgement to follow after Death. <hi>David,</hi> the ſweet Singer of <hi>Iſrael,</hi> accor<g ref="char:EOLhyphen"/>dingly hath loſt a friend, and for his commemoration and obſequies, is muſing on a Funeral Song, whoſe name and title muſt be new and ſingular, which himſelf will compoſe and ſet; and then commit in charge to the men of <hi>Judah</hi> and their children, ſons
+<pb n="2" facs="tcp:65070:6"/>and daughters, to ſing in the houſes and ſtreets all abroad as well as to the Choriſters in the Quire: This ſingular friend is <hi>Jonathan,</hi> who deſerves to have a Song and Leſſon ſet to himſelf, and that is this, the Bow of <hi>Jonathan,</hi> ſo called not for any ſur<g ref="char:EOLhyphen"/>miſed meaning to ſet up Artillery in the Common<g ref="char:EOLhyphen"/>wealth of <hi>Judah,</hi>
+               <note place="margin">Willet ad locum.</note> as it was commonly miſtaken; but to ſet up and advance the life and death of <hi>Jonathan,</hi> a maſter at that art of ſhooting, and ſo excellent a Bowman, that he might without arrogancy compare what all that were paſt, challenge all then preſent, and ſet a ſample to all poſterity ſo famous in their Ages;
+<note place="margin">
+                  <hi>Alex. ab Alex.</hi> 2 Sam. 22.</note> as that <hi>Sythians, Parthians, Perſians,</hi> and Ro<g ref="char:EOLhyphen"/>man Emperors, at the Bow and unexampled skill of ſhooting might learn of him. <hi>From the Blood of the ſlain, and the fat of the mighty the Bow of Jon. turned not back:</hi> That this is the proper and approved ſenſe and intention of <hi>David</hi> in this Title, and that the men of <hi>Judah</hi> ſhould learn the tune is the importance of the Hebrew word <hi>Cheſheth,</hi> the word <hi>Bow,</hi> ſet emphati<g ref="char:EOLhyphen"/>cally, and independently by it ſelf, without relation before or after it.
+<note place="margin">Serrar. Sancher. Cor. a Lap. Mariana. and Mr. Greg. on the Plar.</note> The Seventy Tranſlation ſounds no diſcord, but a Ditty dedicate to Lamentation; to the ſame tune, the vulgar Latine: the report of <hi>Joſephus</hi> that the Elegie continued to his time, the cuſtome of <hi>Iſrael</hi> to endite their ſonnets in this ſort, and the con<g ref="char:EOLhyphen"/>ſent of Gentile <hi>Authors</hi> to give ſome ſignal name and title to their tracts and poeſies. This <hi>Monodie, nene,</hi> or Lamentation funeral was recorded in the Canon, and leſt that ſhould miſcarry, or not be expoſed to com<g ref="char:EOLhyphen"/>mon view, behold it is written in the Book of <hi>Jaſher,</hi> where every one might read it; a Letanie to be ſung, and a Legacie entailed to the uſe and memory
+<pb n="3" facs="tcp:65070:6"/>of <hi>Jonathan</hi> and generations after him that bare the Burden of the Song, O <hi>Jonathan.</hi>
+            </p>
+            <p>Hence by the way we learn that Interpreters are not all in one tune, and the opinions of men are of like authority, unleſs reaſon and learning ſhew the diffe<g ref="char:EOLhyphen"/>rence; Titles of Muſick Leſſons are not to be tamper<g ref="char:EOLhyphen"/>ed with by unskilful hands, leſt they miſtake a figure for a vulgar forme, and dance a falſe meaſure after their own fancy; like him that took <hi>Orpheus</hi> harpe, ſuppoſing to himſelf (like our unſtinted fumblers) that he made good muſick how unskilfully ſoever he handled it, being, as St. <hi>Paul</hi> ſays to <hi>Timothy,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, men that love to hear themſelves to ſing or play.</p>
+            <p>Next to this we may conſider with <hi>Solomon,</hi>
+               <note place="margin">2. Eccleſ. 9.11.</note> that the Race goes not alwayes with the ſwift, as <hi>Aſahel;</hi>
+               <note place="margin">Mercer ex Mi<g ref="char:EOLhyphen"/>dras Ibid.</note> nor the Battle with the ſtrong, as <hi>Abner;</hi> nor Bread to to the wiſe, as <hi>Solomon;</hi> nor Riches to men of under<g ref="char:EOLhyphen"/>ſtanding, as <hi>Job</hi> nor Favour to men of skill, as <hi>Moſes;</hi> for the ſwift <hi>ſahel</hi> was overtaken, the valiant <hi>Abner</hi> was ſlaine, the wiſe <hi>Solomon</hi> by report beg'd his bread, <hi>Job</hi> the wealthy was waſted to a potſheard, and <hi>Moſes</hi> lives not to enjoy a foot of the promiſed land. And <hi>Jonathan</hi> how art thou made as heire apparent to the fortunes and ſucceſſes of the moſt or all of them?
+<note place="margin">Proverbs.</note> how art thou cut down with the helve of thine own wood, how wounded with the feathers of thine own wing, how ſet in the ſtocks of thine own making, how taken in thine own toyle, falne in thine own pit, roaring in thine own Bull, ſlain by the bow of the <hi>Philiſtims</hi> thine own maſter-piece and weapon? how doth time and chance untimely take thee away? O <hi>Jonathan</hi> how waſt thou ſlaine!</p>
+            <p>But now my Errand is to bend this Bow another
+<pb n="4" facs="tcp:65070:7"/>way, to teach the children of this coaſt and country the uſe of the Bow. An ancient way of Triumphs was to erect great Arches or Bows of marble to the honour of worthy Patriots who had been Vindica<g ref="char:EOLhyphen"/>tors of their country againſt Enemies,
+<note place="margin">
+                  <hi>Pancirol. de <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcubus tri<g ref="char:EOLhyphen"/>um<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. part.</hi> 1. <hi>tit</hi> 28.</note> and true de<g ref="char:EOLhyphen"/>ſervers of renown and fame; in theſe were written and inſcrib'd the noble acts and atchievements done in memory of the actors: hereof were thirty ſix at <hi>Rome,</hi> and one thouſand in the Eaſtern parts, as in <hi>China.</hi> This might be the mind of <hi>David,</hi> and under favour of more knowing judgements, may ſerve to inſtruct us that paſſe by to read and conſider the me<g ref="char:EOLhyphen"/>rits and noble vertues of our deceaſed Friend, and countreys Worthy, who after many teſtimonies of grace and vertue exhibited in his life, was at the laſt ſhot by a deadly Philiſtines arrow, that drank up his Spirits riding a ſummers progreſs under the Sun, that <hi>Apollo</hi> that in the camp of mankinde ſmites with his darts of Epidemical diſeaſes here and there to Death;
+<note place="margin">
+                  <hi>Homer. Il.</hi> 1.</note> leaving us with <hi>David</hi> to erect his Arch, to write his acts and publiſh his memorial; When alſo all the hearts of the hearers may be ſo taken like untoucht inſtruments, to reſound and eccho by a loving ſympathy to honour and lament him, <hi>O Jo<g ref="char:EOLhyphen"/>nathan,</hi> &amp;c.</p>
+            <p>The particle, <hi>O,</hi> is as an herald or chiefe chanter to all the parts of this dolefull ſong and haraſange, and may ſerve to be applyed to all
+<list>
+                  <item>As Oh For exclamation at the matter.</item>
+                  <item>As Oh For affection to the name of the man; <hi>O Jonathan!</hi>
+                  </item>
+                  <item>As Oh For indignation to the place; <hi>how in the high places,</hi>
+                  </item>
+                  <pb n="5" facs="tcp:65070:7"/>
+                  <item>As Oh For lamentation for the perſon, <hi>wo is me for thee my Brother Jonathan.</hi>
+                  </item>
+                  <item>As Oh In conſideration of the loſs; <hi>very pleaſant haſt thou been to me.</hi>
+                  </item>
+                  <item>As Oh For admiration of the Love; <hi>thy love was wonderfull.</hi>
+                  </item>
+                  <item>As Oh For the compariſon of all; <hi>paſſing the love of women.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Thus the life and death of <hi>Jonathan</hi> is ſhortly and ſorrowfully deſcanted on by <hi>David,</hi>
+               <note place="margin">
+                  <hi>Muſathen. Cap.</hi> 17.</note> running as all mortals do upon the 7 notes of Muſick, with Longs and Shorts, Sharps and Flats; as <hi>Putean</hi> makes it out, to call mens life here below, untill we aſcend a<g ref="char:EOLhyphen"/>bove the ſpheres into heaven,
+<note place="margin">Revel. 14.</note> and there ſing our part in the Song of the Lambe, <hi>Revel.</hi> 14. So I re<g ref="char:EOLhyphen"/>ſort to the firſt part of my Text, the Note of Ex<g ref="char:EOLhyphen"/>clamation at the matter, <hi>O.</hi>
+            </p>
+            <p>The Maſters of ſpeech and eloquence obſerve this particle (ô) to attend all the paſſions of the mind,
+<note place="margin">Martin. Lex. in O.</note> and in no leſs then twelve great affects of the ſoul expreſſe a full ſignification and ſenſe of it ſelf;
+<note place="margin">
+                  <hi>Teſmar de Eloq. Pag.</hi> 167.</note> as of joy; Oh! <hi>that thou wert as my Brother that ſuckt the breaſts of my Mother, Cant.</hi> 8.</p>
+            <q>
+               <l>And of griefe, <hi>Oh waetched man that I am,</hi>
+               </l>
+               <bibl>
+                  <hi>Rom.</hi> 7.</bibl>
+            </q>
+            <q>
+               <l>Of wiſhing, <hi>Oh that I had the wings of a Dove</hi>
+               </l>
+               <l>Of Indignation, <hi>Oh faiihleſſe and crooked genera<g ref="char:EOLhyphen"/>tion,</hi>
+               </l>
+               <bibl>
+                  <hi>Luk.</hi> 24.</bibl>
+            </q>
+            <q>
+               <l>Of Expoſtulation, <hi>Oh Inhabitants of Judah, judge I pray you,</hi>
+               </l>
+               <bibl>
+                  <hi>Iſa.</hi> 5.</bibl>
+            </q>
+            <q>
+               <l>Of Exclamation, <hi>Oh ye ſons of men,</hi>
+               </l>
+               <bibl>
+                  <hi>Pſal.</hi> 4.</bibl>
+            </q>
+            <q>
+               <l>Of compariſon, <hi>Oh man who art thou that diſpu<g ref="char:EOLhyphen"/>teſt with God?</hi>
+               </l>
+               <bibl>
+                  <hi>Rom.</hi> 9.</bibl>
+            </q>
+            <pb n="6" facs="tcp:65070:8"/>
+            <p>Of all at once, as here, ô <hi>Jonathan:</hi> and thus it is made the Miſtris to teach, and the mouth to utter all our affections.</p>
+            <p>And ſerves us not to uſe it, like the braying of an Aſſe,
+<note place="margin">Uſe.</note> as <hi>Eraſmus</hi> forbids, but ſeriouſly and in ear<g ref="char:EOLhyphen"/>neſt, when it comes on the hearts errand to witneſs unfainedly ſome affection of the mind, as in the for<g ref="char:EOLhyphen"/>mer places mentioned, and then it becomes the ſpeaker, as the Bow of <hi>Jonathan,</hi> and makes a faire impreſſion in the heart as if written with a pen of Steel,
+<note place="margin">Jerem. 9.1.</note> or the point of a Diamond; and thus it is uſed by <hi>David,</hi> who in the drawing of this Bow now bent for mourning, fetcheth deep ſighs from the bottome of his bowels, and ſendeth them forth like arrows ſing<g ref="char:EOLhyphen"/>ing in the air, and are now come to our uſe and eares; and ſo ſink into our minds to cry out and complain, to diſdain and lament, to conſider and admire, to compare and make a parallel with <hi>Davids Jonathan</hi> ſlain, and ours deceaſed, and leads me on to the ſe<g ref="char:EOLhyphen"/>cond part of my text, The affection to the name, O <hi>Jonathan!</hi>
+            </p>
+            <p>Lovers are much affected with the names of their Paramours and friends, inſomuch that the naming betrayes the guilt and conſcience in the pulſe and countenance; <hi>Heu quam difficile eſt crimen non pro<g ref="char:EOLhyphen"/>dere vultu!</hi>
+            </p>
+            <p>The <hi>Arabians</hi> have a proverb, he that loves much, makes much mention of his love. 'Tis <hi>Davids</hi> caſe, he names <hi>Saul</hi> but three times in this ſong, <hi>Jonathan</hi> foure,
+<note place="margin">Expen. in Prob. Arab.</note> and makes his name to carry the burden of the ſong, with teares and kiſſes as the woman in the Goſpel, <hi>Pouring out her Alablaſter box of oyntment on his body, in token that ſhe loved much;</hi> or as Chriſt
+<pb n="7" facs="tcp:65070:8"/>on <hi>Lazarus, Behold how he loved him:</hi> and,
+<note place="margin">Luke 7. John 11.</note> 
+               <hi>Lord he whom thou loveſt is dead.</hi> Names, ſaith <hi>Luther,</hi> are the boxes that the graces of the Spirit of God are preſerved in, the Caskets of thoſe Jewels, the cups of the heavenly potions, the combs of the honey, and the baskets that take the fragments of the Di<g ref="char:EOLhyphen"/>vine banquet, he that is not acquainted with theſe handmaids can very hardly come to the ſpeech of that Miſtreſs;
+<note place="margin">Agrip. Occult. Philoſ.</note> what influence or intelligence doth paſſe between ſtars and names, let the curious Arts declare. But ſure I am that <hi>Saul</hi> had no ill Spirit to ſuggeſt or vexe him, or ill preſage to poſſeſſe him when he gave to his Son this name of <hi>Jonathan;</hi>
+               <note place="margin">Lexicon San<g ref="char:EOLhyphen"/>ctum by Greg.</note> a name turned into our Engliſh, as much as Gods gift, or the Dove comes, <hi>Jon-tha,</hi> as <hi>Bercorius</hi> alludes, an heavenly extraction in the firſt, and a ſweet alluſion in the laſt. This in a tranſcendant way is drawn from God, and the other in a lovely nature and Spirit comes to man; the ſprings from above, and the ſprings below, which was <hi>Calebs</hi> choice gift,
+<note place="margin">Jug. 1.11.</note> do both meet in this name; The Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, extremely to love, is the name of the Dove that came from heaven, ſate upon the Son of God, loves to dwel with man, build in his houſe, eat and drink with him, brings him fruit and food, and by ſimilitude teacheth as a Domeſtical Chaplaine, the leſſons of faith to look up and ask, of thankſgiv<g ref="char:EOLhyphen"/>ing to God above, of innocency, having no gall, of patience without complaint, of charity without re<g ref="char:EOLhyphen"/>venge, of concord and joynt aſſiſtance, in their building, brood and company: all which <hi>David</hi> by ſweet experience found in <hi>Jonathan</hi> as the gift of God to him, and a Dove coming ſtill to comfort him, thus
+<pb n="8" facs="tcp:65070:9"/>
+               <q>
+                  <lg>
+                     <l>Conveniunt rebus nomina ſaepe ſuis.</l>
+                  </lg>
+                  <lg>
+                     <l>Names oftentimes agree,</l>
+                     <l>To tell you what the man will be.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>This experience that <hi>David</hi> had of his noble ver<g ref="char:EOLhyphen"/>tues and divine indowments had ſo raviſh'd and tran<g ref="char:EOLhyphen"/>ſported him,
+<note place="margin">Uſe.</note> that he is in an holy extaſie and a little out of himſelf, making a ſpeech to a dead man, wiſh<g ref="char:EOLhyphen"/>ing that his name pronounced aloud might raiſe and awake him to life again; or calling the world to witneſſe, that with <hi>Jonathan</hi> was buried the Mirrour of Love, the Miracle of Nature, and the Darling of Mankind.</p>
+            <p>In this name, let us with <hi>David</hi> open the ſhels that we may find out the pearls, unlock the caskets to come at the Jewels, preſs and examine the combs that we may ſuck the honey, open the baskets to feed on the dainties laid up in pious names for the honour of the owners, and the imitation of their manners. The practice of the Church of <hi>Rome</hi> is not ſo graceleſs, as not to teach her children this leſſon, and that under Canon of the Councel of <hi>Trent,</hi> and her Sermons ſeriouſly exhorting that pious names be impoſed as copies and ſamplers for poſterity to be<g ref="char:EOLhyphen"/>hold and imitate:
+<note place="margin">
+                  <hi>Regerlinck in Fest. circumciſ. Tit.</hi> 2.</note> Let not <hi>Samaria</hi> out-do <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> good names may imprint conformity to good manners, and though we have laine with nature and the world like ſcullions among the pots and coales, yet we may be by Gods grace as the wings of a Dove,
+<note place="margin">Pſal. 68.13.</note> thats cover'd with ſilver, and our feathers like yel<g ref="char:EOLhyphen"/>low gold.</p>
+            <pb n="9" facs="tcp:65070:9"/>
+            <p>Our <hi>Jonathan</hi> hereby bears the name of a <hi>Lucie,</hi> probably ſprung from the Roman <hi>Lucins,</hi> a ſtemme of that root that was the firſt Chriſtian King of the world, that borrowes his original from the firſt Orient Light, as the morning ſtarre born at the break of day; a name given to Chriſt himſelf in the ſong of <hi>Zachary;</hi> and to the newborn Chriſtians,
+<note place="margin">Luk. 1. Act. 13.1. Rom. 16.21.</note> 
+               <hi>Act.</hi> 13.1. and <hi>Rom.</hi> 16.21. deſcending to <hi>Lucius</hi> King of England, a great favourite to the Roman Emperors, eſpecially to <hi>Lucius Verus,</hi> who diſtri<g ref="char:EOLhyphen"/>buted provinces to his fellowes and friends: This <hi>Lucius</hi> is ſaid to be Baptiſed by <hi>Timothy,</hi> contempo<g ref="char:EOLhyphen"/>rary with <hi>Polycarpus</hi> and <hi>Martyr;</hi>
+               <note place="margin">
+                  <hi>Armacanus de primord. E. Ang. Bin. Conuc. pag.</hi> 70.</note> the 7 of <hi>Marc. Aurelius, Anno</hi> 166. A name that in the Roman comes from Lights, in the <hi>Brittiſh</hi> Iſles the ſame, and ſuites well with the Event, that made it ſo Chri<g ref="char:EOLhyphen"/>ſtian and illuſtrious, as the Verſe upon it notes,
+<q>
+                  <lg>
+                     <l>
+                        <hi>Prima Britannorum fidei lux Lucius eſſe</hi>
+                     </l>
+                     <l>
+                        <hi>Fertur, qui rexit moenia Brute tua.</hi>
+                        <note place="margin">Al. Neckham.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Firſt Light of Brittiſh faith was <hi>Lucie</hi> call'd,</l>
+                     <l>Who rul'd the Cities which thou <hi>Brutus</hi> wall'd.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>A name that crowns this Nation more then <hi>Mulmutius</hi> firſt Crown of gold, our common Law<g ref="char:EOLhyphen"/>giver, or all the Laurels and Diadems of Kings and Conquerors that did not make us Chriſtian, by how much Chriſtian Religion excelleth all theſe earthly Laws and Powers; a name recorded in thoſe ancient coynes, one of ſilver and the other of gold, bearing the Image of a Chriſtian King, by the ſigne of the
+<pb n="10" facs="tcp:65070:10"/>Croſs impreſt, and the letters <hi>Luc.</hi> name intituled upon it: A name famous for eminent and worthy actions and deſerts, in three Roman Conſuls, three Chriſtian Biſhops of that Sea; the firſt a glorious Martyr,
+<note place="margin">Chronic. Noringberg. Platina in vi<g ref="char:EOLhyphen"/>tis.</note> the two latter inferiour unto him, but great advancers of the holy warre againſt infidels, and ſuppreſſors of ſpreading hereſies in their times; A name ſainted in the female ſex, Saint <hi>Lucie,</hi> who ſuffered for Chriſt, gave all her rich portion and pa<g ref="char:EOLhyphen"/>trimony to poor widows in charity, and rather then violate her chaſt Virginity, choſe rather to kiſſe the ſtake, and to embrace the flames of burning fag<g ref="char:EOLhyphen"/>gots. A name illuſtrious in that <hi>Elizabeth Lucie,</hi> a Lady for her princely vertues and comportment deem'd worthy of the Queenſhip to <hi>Ed.</hi> the fourth.
+<note place="margin">
+                  <hi>Speed in Ed.</hi> 4.</note> And what ſhall I ſay more? a name wherein the faith of K. <hi>Lucius,</hi> the zeal of the Biſhops, the charity of the Saint, the worth of the Courtier, the ver<g ref="char:EOLhyphen"/>tues of all did tranſlucently ſhine. He was a morn<g ref="char:EOLhyphen"/>ning ſtarre in the midſt of a cloud, in the late tempe<g ref="char:EOLhyphen"/>ſtuous times not twinkling betwixt two opinions, but conſtantly appearing in his courſe and ſtation, and a plaine Expoſitor of his name; Let it remaine as his ornament, as our inſtruction and poſterities Example, never to go out of that name, ſo long as <hi>Lucifer</hi> ariſeth to bring in the morning, whiles we bewaile the ſad veſpers of his ſetting here; <hi>Oh Jo<g ref="char:EOLhyphen"/>nathan, &amp;c.</hi>
+            </p>
+            <p>A note of Indignation, <hi>how waſt thou ſlain in the high places! Kalat.</hi> wounded, ſhot through, ſlaine by a pittiful maſſacre in a tragical manner; this act, this paſſion, this direful diſpatch, <hi>David</hi> with In<g ref="char:EOLhyphen"/>dignation doth deteſt in the perſons that did it, and
+<pb n="11" facs="tcp:65070:10"/>curſeth the place with barrenneſs that drank his blood, that they might not pleaſure God nor profit man: <hi>Oh ye mountains of Gilboah,
+<note place="margin">Verſ. 21.</note> let there be no dew or raine fall upon you, nor field</hi> of offering: <hi>giving</hi> a pat<g ref="char:EOLhyphen"/>tern to <hi>Alexander</hi> and <hi>Caeſar,</hi> how to reward the Aſſaſ<g ref="char:EOLhyphen"/>ſinates of royal blood, though in the field they are vanquiſht enemies.</p>
+            <p>
+               <hi>Pet. Martyr,</hi> no farre Traveller, affirms, that the place where he took his mortall wound, doth ſtand ſmitten with barrenneſs,
+<note place="margin">Buntingius Itiner.</note> as <hi>Aeternum monumentum tanti mali,</hi> like the figtree accurſt by Chriſt. <hi>Ber<g ref="char:EOLhyphen"/>chardus</hi> an eye-witneſs ſaith, that as he travelled up that mount, there fell ſuch a violent ſhower that he was wet through his clothes, and the water in abundance ran in the valleys: and in <hi>Anno</hi> 1283 ſleeping upon this hill on the Eve of all Saints, a great dew fell upon his clothes, but in many places tis ſtony and barren. Twas then a wiſh of <hi>Davids,</hi> that the heavens and earth might have a kind of ſenſe and conſort in this calamity, feigning them as fit mourners to grace theſe funerals. This mountain is forty miles from <hi>Jeruſalem,</hi> and hath its name from <hi>Gil</hi> and <hi>Bagnah,</hi> a purchaſe of joy, a bubble of gladneſs; ſo it might have proved to <hi>Jonathan,</hi>
+               <note place="margin">Greg. lex. ſanct.</note> that had been victorious heretofore in ſuch a place, but now the Shambles of this noble Heroe; here the Ar<g ref="char:EOLhyphen"/>chers preſt ſore upon him, and <hi>Jonathan</hi> fell down ſlain in mount <hi>Gilboah,</hi>
+               <note place="margin">1 Sam. 31.3.</note> to ſhew that the Laurel of victory withers at the laſt, and all the atchievements of worldly glory are but a fit of mirth, and at laſt break like a bubble into vanity, and then call me no more <hi>Naomi</hi> but <hi>Marah,</hi> no more <hi>Gilboah,</hi> a pur<g ref="char:EOLhyphen"/>chaſe of joy, but <hi>Gaal Boah,</hi> a purchaſe to be abhor<g ref="char:EOLhyphen"/>red,
+<pb n="12" facs="tcp:65070:11"/>or <hi>Golgotha,</hi> a place of dead mens ſculs, not <hi>Kalat,</hi> but <hi>Kallailah.</hi> God bleſſe us from it, our God forbid.</p>
+            <p>Parallel to this ſomewhat was the place where our <hi>Jonathan</hi> received the arrow of evil and conta<g ref="char:EOLhyphen"/>gious air that brought him to his long home, in that mountainous and uncouth part of <hi>Worceſter-ſhire;</hi> vi<g ref="char:EOLhyphen"/>ſiting his park there,
+<note place="margin">Pſal. 91.</note> that arrow of death that flyeth by day, inviſibly fell into his ſides, which ſtole ſecret<g ref="char:EOLhyphen"/>ly to the heart, won the Caſtle of health, and let out his life. We will not curſe that ground, but wiſh that a witneſs or monument may there ſtand to at<g ref="char:EOLhyphen"/>teſt the loſſe and fail of ſo good a Maſter; The Analogie of this high place may ſerve for a moral, to give, us caution and inſtruction that high places are dangerous; the exceeding high mountaines, whence we may diſcover the whole glory of the world, are devilliſh tentations; the pinnacle of the Temple is ſecond to it, from hence the ſcepters and the miters take their riſe and fall; he had need to be another Saviour that eſcapes. Truſt not in Princes, nor in preferments to high places, <hi>Expertus metuit Jona<g ref="char:EOLhyphen"/>than</hi> the Dove comes hither and gives the <hi>Philiſtims</hi> arrow better aime, the morning ſtarre is made the fairer mark; <hi>O Jonathan:</hi> which uſhes in the fourth part, a note of Lamentation.</p>
+            <note place="margin">4</note>
+            <p>
+               <hi>Tſur lignaleca achi,</hi> I am diſtreſſed, or wo is me for thee my Brother; the Tranſlations turn it ſadly, I am (quoth <hi>David</hi>) ſtraitened as one beſieged with ſor<g ref="char:EOLhyphen"/>rows,
+<note place="margin">
+                  <hi>Grece.</hi> 70. <hi>Lat.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I am not able to tell how ſorrow<g ref="char:EOLhyphen"/>full a man I am: <hi>Doleo,</hi> I am hewed and ſhaved thin with grief for thee; I am ſtraitned and begirt like a veſſel that muſt vent or break: many Apo<g ref="char:EOLhyphen"/>ſtrophes bound and rebound from <hi>Gath</hi> and <hi>Aske<g ref="char:EOLhyphen"/>lon</hi>
+               <pb n="13" facs="tcp:65070:11"/>to <hi>Gilboah,</hi> from thence to <hi>Jonathan,</hi> from <hi>Jo<g ref="char:EOLhyphen"/>nathan</hi> to himſelf, from himſelf to <hi>Jonathan,</hi> draw<g ref="char:EOLhyphen"/>ing this ſtrong bow of ſighs and ejaculations to the head, and ſending them out like arrows; I am un<g ref="char:EOLhyphen"/>done for thee my Brother, whoſe Siſter <hi>Michol</hi> I have married, a faire, a wiſe, ingenuous and faithful wife; more wives may I live to enjoy, but never more muſt I look to ſee ſuch another Brother as now is dead.</p>
+            <p>Let my loſs and lamentation for ever warrant a<g ref="char:EOLhyphen"/>gainſt all gainſayers the ancient cuſtome of Epitaphs and mournings at the departure and loſs of friends,
+<note place="margin">Uſe.</note> our near and dear Relations; Let <hi>Adam</hi> and <hi>Eve</hi> forbear their frolicks,
+<note place="margin">
+                  <hi>Fonſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d ex Heb. Ser.</hi> 1.</note> and retire an hundred years in mournings to ſee the wages of ſinne ſo ſeverely paid in the ſlaughter of <hi>Abel,</hi> in the death of the bodie, and the abandoning of <hi>Cain,</hi> for the ſoul: in this Equipage and traine let <hi>Abraham</hi> and <hi>Jacob, Joſeph</hi> and <hi>Jeremy,</hi> the High Prieſt and the Old Prophet, the people for <hi>Moſes, Aaron</hi> and <hi>Samuel,</hi> and me for <hi>Saul</hi> and <hi>Jonathan,</hi> the Subjects for <hi>Jo<g ref="char:EOLhyphen"/>ſias,</hi> Chriſt for <hi>Lazarus,</hi> (behold how he lov'd him) his Siſters for the ſame, the <hi>widow</hi> for her Son, St. <hi>Paul</hi> for <hi>Epaphroditus,</hi> and the good <hi>women</hi> and <hi>neighbours</hi> for <hi>Dorcas.</hi> Let the Barbarous Laugh<g ref="char:EOLhyphen"/>ing and cruel revels, the profane fidling, and the buriall of an Aſſe, be baniſht to the Pagans, and as farre off our Chriſtian funerals, as the <hi>Antipodes:</hi> to be ſo Stoical or ſtockiſh as to ſtiflle our good af<g ref="char:EOLhyphen"/>ffections, and to ſtrangle our winds in our baggs with <hi>Aeolus;</hi> is unnaturall, ungracious, unchriſtian Apathy. The will of God is not reſiſted with tears and weeping, he barrs not our affections, but bids us let
+<pb n="14" facs="tcp:65070:12"/>them out, be of like affection, <hi>weepe with them that weep:</hi>
+               <note place="margin">Rom. 12.</note> what though we cannot help it? yet lets weep the more becauſe we cannot; tis ſome eaſe to let theſe ſwelling waters out: lets weep with <hi>Xerxes,</hi> beholding this numerous army of mankind, for that within one age not one of them ſurvives, into ſuch a ruine hath the ſinne of one involv'd us all; lets weep for our ſelves that have ſuſtained that loſſe, and let the loſers have leave to ſpeak, that our ſinne hath bereav'd us, one of a father, another of an hus<g ref="char:EOLhyphen"/>band, a maſter, a companion, a patron, a friend: if he were good, let them deplore the Churches, countries, houſes, townſhips loſſe; if evill, as <hi>Abſa<g ref="char:EOLhyphen"/>lom,</hi> whoſe graceleſſe crime was as the Mule that carried his hairy ſcalpe to the tree of execution; yet bewaile him the more,
+<note place="margin">
+                  <hi>Manaſſ. Ben. Iſrael de Creat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>robl.</hi> 19.</note> as <hi>David</hi> is obſerved 8 times to have cryed out for him, O <hi>Abſalom, my ſon my ſon!</hi> ſeven times for that ſin of rebellion, contain<g ref="char:EOLhyphen"/>ning the ſeven degrees of evill that accompliſh ſuch a ſinner, as naught, <hi>Belial,</hi> perverſe, ſinful, wicked, impoſtor, ſcornful, proud, high-minded; which lead to thoſe ſeven ſtaires of the infernal dungeon, <hi>Sheol, Abaddon, Beor, Shacah, Bor, Tait, Haijon, Thelamoth, Arets,
+<note place="margin">Eccluſ. 22.11, 12.</note> Tactith; Weepe ſeven dayes for him that is dead, but for a foole all the dayes of his life;</hi> weep for a noble friend thirty, forty dayes, an year, yet not without hope as if all were caſt away; blame not nature with <hi>Electra,</hi> nor kill our ſelves with <hi>Jo<g ref="char:EOLhyphen"/>caſta,</hi> become not a ſtony fountain with <hi>Niobe;</hi> let heathen rites be out of faſhion with men of better hopes, baldneſſe, vociferations, hired counterfeits, ſlaying ſlaves, young men ſent to death; making tombs for horſes, or keeping ſolemn funerals, with
+<pb n="15" facs="tcp:65070:12"/>
+               <hi>Craſſus</hi> for a Lamprey, with <hi>Hadrian</hi> for a hen, <hi>Ca<g ref="char:EOLhyphen"/>tullus</hi> for a ſparrow; but weep and overweep again each teare, till ten moneths put an end to mour<g ref="char:EOLhyphen"/>nings. To conclude, rather then want mourners for ſo noble <hi>Jonathans,</hi> let the widowed Swans in the River, and the Turtles in the wood, the flowers in the Garden, and the fruits of the Trees, let the groves and the walkes, the chambers and the walls, let the bowels of the poor, and the backs of his compliants, the towns round about, and this Church and Pulpit bear a part in this lamentation, and ſay, wo is me for thee my brother <hi>Jonathan;</hi> and that for good conſideration in the fifth place.</p>
+            <p>
+               <hi>Magnentha ti meod.</hi>
+               <note place="margin">5.</note> Very pleaſant haſt thou been to me, pleaſant in thy perſon, very beautiful; plea<g ref="char:EOLhyphen"/>ſant in thy expreſſion, bountiful: beautiful, the firſt born ſon of <hi>Saul,</hi> the propereſt man in all <hi>Iſrael;</hi>
+               <note place="margin">1 Sam. 18.4.14.49, 50.</note> and bountiful, for <hi>Jonathan</hi> ſtript himſelf of the robe that was on him, and gave it to <hi>David,</hi> and his garments, even to his ſword, and to his bow, and to his girdle. His beauty is preſumed, as begotten in the prime of his fathers abilities, of <hi>Ahinoam</hi> the daughter of <hi>Ahimaaz,</hi> whoſe name ſignifies my fair ſiſter; <hi>Jonathan</hi> was then a bird of that Eagle, and a whelpe of that Lion, both Father and Son ſo re<g ref="char:EOLhyphen"/>nowned, in <hi>ver.</hi> 23. Swifter then Eagles, ſtronger then Lions, the Kings of birds and of beaſts: <hi>fortes creantur fortibus,</hi> grapes grow not out of thorns, nor figs of thiſtles: <hi>David</hi> praiſeth in them, <hi>decorem formae &amp; conſtantiam animi,</hi>
+               <note place="margin">Lyra in loc.</note> for outward beauty a<g ref="char:EOLhyphen"/>miable perſons, for inward, bravery of gallant pro<g ref="char:EOLhyphen"/>perties. The way to the Temple of Honour was through the Temple of Vertue, and a fair ſtep to it
+<pb n="16" facs="tcp:65070:13"/>is to be the ſon of Nobles, a true born Eaglet look<g ref="char:EOLhyphen"/>ing on the ſun of gallantry, and a princely Lion ſcor<g ref="char:EOLhyphen"/>ning the affronts of low-bred-currs and whiplets. Pearls are begotten of the Orient dews, and the fair bed of Whitſpar the <hi>Spaniards</hi> call, <hi>el madre del ore,</hi> the mother of gold. <hi>Dion Chryſoſtome</hi> tells of a family at <hi>Thebes,</hi> that had hereditarily a lance branded in their fleſh, as a mark of honour, by na<g ref="char:EOLhyphen"/>ture,
+<note place="margin">See <hi>Cauſinus Eabl Tiraquel. de leg. con lib. 9 Arſen. de Conjug.</hi>
+               </note> without which they were reputed illegitimate and Baſtards: nobleneſs goes by Blood, and the word of God itſelf thrives not but upon good ground, an honeſt and noble heart; Doves delight in white houſes, and the Dove-like Spirit of God takes up her lodging in the faireſt coats. A Biſhop of <hi>Mil<g ref="char:EOLhyphen"/>lain</hi> retained none into his family but the faireſt he could chooſe, his reaſon was, <hi>Improbitas in egregio corpore vix comperta,</hi> foule conditions are ſcarcely found in faire complexions. St. <hi>Chryſoſtom</hi> notes it of the beggars of his time, that from beauteous per<g ref="char:EOLhyphen"/>ſons they would expect a bounteous almes: God, Man and Nature, give the preeminence and prin<g ref="char:EOLhyphen"/>cipality to the faireſt, even among Blackmores; and who will not chooſe to eat out of the clean diſh, to lodge in the faireſt linnen, and his companion to be as <hi>Joſeph</hi> or <hi>Jonathan,</hi> of a ſweet complexion? What an increaſe of grace is it, to come from a graci<g ref="char:EOLhyphen"/>ous deportment?
+<note place="margin">Cauſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Embl.</note> and how grand an impoſture to be<g ref="char:EOLhyphen"/>hold a fine Gentleman, like the <hi>Caſpian</hi> Bird, ſtalk forth, and turn him about ſtately like a Crane, with a ſcarlet back, and a green breaſt, a white neck pow<g ref="char:EOLhyphen"/>dered here and there with ſpots of yellow, and to the diſgrace of all to come off with a weak ſmal head-piece, a black foule Bill, and a note as churliſh as a
+<pb n="17" facs="tcp:65070:13"/>Frog in a fen, a fair outſide ſham'd and belyed with a foule degenerous mind and language. Happy our <hi>Jonathan,</hi> and he that enjoyed him, a ſweet and alluring condition,
+<note place="margin">Plutarch.</note> like the Dove per<g ref="char:EOLhyphen"/>fumed in his feathers, as a harmleſſe decoy, draws all good natures to follow him, and enter<g ref="char:EOLhyphen"/>tains them in his houſes: <hi>very pleaſant haſt thou been to me,</hi> and more then ſo, <hi>thy love was won<g ref="char:EOLhyphen"/>derfull;</hi> A note of Admiration, and my ſixth part.</p>
+            <p>
+               <hi>Niphleatha ahavatheca li,</hi>
+               <note place="margin">6.</note> Thy love to me was wonderful, and whats that? a thing wrought ex<g ref="char:EOLhyphen"/>traordinarie by the rare work of God,
+<note place="margin">
+                  <hi>Aug. ad Hono<g ref="char:EOLhyphen"/>rat. cap.</hi> 16.</note> above the common order of nature, ſuch was the love of <hi>Jo<g ref="char:EOLhyphen"/>nathan</hi> to <hi>David;</hi> an holy fire that came from hea<g ref="char:EOLhyphen"/>ven, and fell upon the altar of <hi>Jonathans</hi> heart, kin<g ref="char:EOLhyphen"/>dling his affection to <hi>David;</hi> an Heroick motion that God put into his minde, which like the touch of a loadſtone drew the needle of his thoughts, to fix upon this pole-ſtarre: in a word, when that gal<g ref="char:EOLhyphen"/>lant paſſe was made by little <hi>David,</hi> upon that for<g ref="char:EOLhyphen"/>midable <hi>Goliah</hi> the Philiſtim; his head preſented to <hi>Saul,</hi> and his account of himſelf, and ſonſhip made unto the King: the next word tells us, how ſud<g ref="char:EOLhyphen"/>denly <hi>Jonathan</hi> fell in love with him, <hi>and the ſoul of Jonathan was knit unto the ſoul of David:</hi>
+               <note place="margin">1 Sam. 18. <hi>Nichſerah.</hi>
+               </note> as if the finger of God had woven and knit two ſouls into one curious piece of work; or tyed up two hearts into a ribband or bracelet. All that the Moraliſts can preſcribe, make not out the perfection of this friendſhip; not begotten with profit, which is mer<g ref="char:EOLhyphen"/>cenary, nor with pleaſure, which ſeeks her own end and intereſt, ſordid conſiderations that are won and loſt for a triflle, &amp; with the turning of an hand; this is
+<pb n="18" facs="tcp:65070:14"/>friendſhip at bowles with a ſelf-bias; But the ver<g ref="char:EOLhyphen"/>tue of <hi>Davids</hi> acts, the grace of his ſayings, was the allective, the own-ſake and ſervice to do <hi>David</hi> good, was the end, and God was the Author.</p>
+            <p>To neglect his own profit and apparant inheri<g ref="char:EOLhyphen"/>tance to a crown, and the hope of a kingdome, to hazard the evil will and diſpleaſure of a King his father, and to cleave ſo faſt to an aſpiring Rival and competitor againſt himſelf was wonderfull.</p>
+            <p>To ſee a ſouldier part with his armes,
+<note place="margin">2.</note> a courtier with his complements, a Prince with his apparant expectances, a politician with his pretences, againſt his honour, againſt his profeſſion, againſt hls for<g ref="char:EOLhyphen"/>tunes, againſt his family, againſt his father, againſt himſelfe, to a ſhepherd, to plain country-ſwain, a to diveſt his whole family, and advance <hi>David,</hi> this was divine friendſhip, that had God to the father, and <hi>Jonathan</hi> the performer; 'twas wonderfull.</p>
+            <p>For a man of his quality to covenant three times and keep them;
+<note place="margin">3.</note> of his relation, to digeſt that diſpa<g ref="char:EOLhyphen"/>ragement to his father, <hi>Saul his thouſands, but David his ten thouſands;</hi> to have the opportunity of <hi>Michal</hi> to make him away, and would not be of the coun<g ref="char:EOLhyphen"/>cell; the command to kill him, and to treat for his ſecurity and life; to acquaint him with the danger, and ſwear to do for him what his ſoul deſired; to hazard his mothers reputation, and bring himſelf &amp; her within the miſpriſion of high treaſon,
+<note place="margin">1 Sam. 20.30.</note> to yield to <hi>David</hi> the firſt title to the crown, and content himſelf with the only hope of a ſecond, to quit him<g ref="char:EOLhyphen"/>ſelf in the next capacity, and to deſigne it for ano<g ref="char:EOLhyphen"/>thers head; this is a work of more then a man, and a very wonder, wrought in him by Almighty God.</p>
+            <pb n="19" facs="tcp:65070:14"/>
+            <p>Come all the paires of friends and twinnes of A<g ref="char:EOLhyphen"/>mity recorded in divine or humane writings, of <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Aaron,</hi> of <hi>Joſeph</hi> and <hi>Benjamin,</hi> of <hi>Caſtor</hi> and <hi>Pollux,</hi> &amp;c.</p>
+            <p>The mirrors of love and friendſhip, kiſſing each other in the mount, clipping and entertaining in a farre different condition, not accepting immortali<g ref="char:EOLhyphen"/>ty if left without a ſecond, engaging body for bo<g ref="char:EOLhyphen"/>dy, and life for life, refuſing honours, and reſigning Empires, quitting lives, and ſurrendring dear con<g ref="char:EOLhyphen"/>tracted ſpouſes; and put the faireſt colours of all into one maſterpiece and picture: and <hi>Jonathan</hi> to <hi>David</hi> ſhall outſhine them all.</p>
+            <p>Let the great Moraliſt limn, and all his Commen<g ref="char:EOLhyphen"/>tators lay on colours to the life, yet all will come too ſhort of that love whoſe Original is Loves foun<g ref="char:EOLhyphen"/>taine, God; whoſe ſubject is a Prince, whoſe ob<g ref="char:EOLhyphen"/>ject is onely vertue, whoſe effects are ſincerity without hypocriſy, charity without counterband, ſecreſy without impeachment, reſignation without conſideration, acquittance without payment, con<g ref="char:EOLhyphen"/>tinuance without revocation.</p>
+            <p>Beloved,
+<note place="margin">Uſe.</note> the old Picture of friendſhip was revi<g ref="char:EOLhyphen"/>ved and a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in our new deceaſed <hi>Jonathan.</hi> A young man as <hi>Jonathan,</hi> taking divine affection to a poor ſhepherd as was <hi>David,</hi> young, as never grown too old, faire, as alwayes in his flower,
+<note place="margin">Pagius P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Abo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</note> bare<g ref="char:EOLhyphen"/>headed and open-fac'd, as not aſhamed of his friend, in courſe clothes, ſuited to ſerve you and yours to povertie it ſelf; his ſide open juſt againſt his heart, without dawbing or diſſembling, his finger pointing to his boſome, as ready to do from his heart whatſoever lies in his hand to do; On his
+<pb n="20" facs="tcp:65070:15"/>forehead is written <hi>ſummer and winter;</hi> on the fringe of his garment, <hi>in Life and Death;</hi> and beſides, this poſie, <hi>yours at length and at hand, Farre and near.</hi> So you may learn to act and copy out this <hi>Jona<g ref="char:EOLhyphen"/>than</hi> of <hi>Davids,</hi> and this <hi>Lucie</hi> of ours, to the life. So I come to my laſt part, the Compariſon, <hi>Me<g ref="char:EOLhyphen"/>ahavath Naſhim,</hi> paſſing the love of women.</p>
+            <p>
+               <hi>Naſhim</hi> is taken in the beſt ſenſe,
+<note place="margin">7.</note> of <hi>Naſha</hi> to forget, becauſe the name and houſe of their fathers is forgotten in exchange for their husbands; In the worſt, of <hi>Naſah</hi> to deceive, as if their loves were of no other uſe or matter then the <hi>Ignis fatuus,</hi> a fire ſet forth to infatuate men, and mock them from their wits: but in the better ſenſe it is as the moon, that forgets her own ſhape, to follow her husband the ſunne.</p>
+            <p>The love here is interpreted paſſively,
+<note place="margin">Lyra. Serrar. A Lap. in lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> for the love men bear to women, or actively, as of women to men; the firſt not ſo likely to be intended by <hi>David,</hi> in the praiſe of a man: yet that the man may not loſe his commendation, or the living their in<g ref="char:EOLhyphen"/>couragement,
+<note place="margin">Gen. 2</note> let the love of <hi>Adam</hi> to the woman <hi>Eve,</hi> appear in the firſt place, when he embraced her body as the fleſh of his fleſh, and bone of his bone, loving her ſo farre that he loſt the love of God, himſelf, and all <hi>Eden</hi> to pleaſure her; <hi>ne contriſtaret delicias ſuas,</hi> that he might not diſpleaſe his darling.
+<note place="margin">
+                  <hi>Aug.</hi> 2 Sam. 12.</note> What adventures <hi>Jacob</hi> made for <hi>Rachel, Shechem</hi> for <hi>Dinah? Uriahs</hi> affection to <hi>Bathſheba,</hi> the lamb that lay in his boſome, is movingly ſet forth by the Prophets parable: and <hi>Ezekiel</hi> was put hard to it,
+<note place="margin">Eze<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 24 15.</note> when the deſire of his eyes muſt be taken a<g ref="char:EOLhyphen"/>way, and his eyes muſt not weep for the loſſe; <hi>So<g ref="char:EOLhyphen"/>lomon</hi>
+               <pb n="21" facs="tcp:65070:15"/>compares her love to the mans ciſtern, as de<g ref="char:EOLhyphen"/>lightful as freſh water to bath in; to a loving Hind, as a pleaſant Roe in his own Park,
+<note place="margin">Prov. 5.15, 19.</note> to take his de<g ref="char:EOLhyphen"/>light; this love ſhews it ſelf moſt of all by the loſs, and made the very heathen reſign their lives as cap<g ref="char:EOLhyphen"/>tives to it.</p>
+            <p>
+               <hi>Gracchus</hi> finding two ſerpents in his chamber,
+<note place="margin">See <hi>Valer. Max.</hi>
+               </note> was told, kill the Male, and you ſhall die firſt; the Female, and your wife ſhall die; to ſave the laſt, he killed the firſt and dyed. A mans wife of <hi>Naples</hi> was taken by the <hi>Mores,</hi> and ſhipt away,
+<note place="margin">French Acad.</note> he ſwam after her, and by the power of ſuch love, overcame the taker, that ſent them both home,
+<note place="margin">
+                  <hi>Pedro Maxio lib.</hi> 5.14.</note> to weare out their loves together. Three noble Romans for love of their raviſht wives, made an end of themſelves.</p>
+            <p>
+               <hi>Orpheus</hi> his wife dying on the wedding day, he ne<g ref="char:EOLhyphen"/>ver loved other, but left the world to be a com<g ref="char:EOLhyphen"/>panion to his deceaſed wife. A great <hi>Don</hi> of <hi>Spaine,</hi> having ſuſtained this loſſe, that was his bed, his board, his pillow; ſlept a years ſpace in his clothes, eat not on any Table-cloth, nor ſate down in a chaire.</p>
+            <p>
+               <hi>Herod</hi> was ſo enamour'd on <hi>Mariamne,</hi>
+               <note place="margin">Joſippus.</note> that having embalmed her dead body, he us'd it as his living bed-fellow. Few men of our age out-do theſe af<g ref="char:EOLhyphen"/>fectionate examples: but I have ſhewn them the moſt excellent way, 1 <hi>Cor.</hi> 12.</p>
+            <p>Now <hi>Michal, Sauls</hi> daughter and <hi>Davids</hi> wife, is a rare and onely example of lovingneſſe to an hus<g ref="char:EOLhyphen"/>band;
+<note place="margin">1 Sam. 20.</note> by an officious feigning and counterfeit image ſuborned and invented to further his eſcape. Otherwiſe the Scripture is ſilent, and leaves women to ſpeak for themſelves; yea <hi>Jonathans</hi> mother
+<pb n="22" facs="tcp:65070:16"/>had not his fathers good word, and theirs but one ſingle example of love to their husbands among the Jewiſh wives; the more Jews you will ſay for that: But among the Gentiles go we to their reports, and their Story produceth numbers of moſt loving and adventurous wives.</p>
+            <p>Some putting on armes and playing the man in wars for their husbands company, to hazard life or bring them off; ſome chooſing death, according to the Oracle,
+<note place="margin">See <hi>F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Acad.</hi>
+               </note> to ſave them alive; ſome changing ap<g ref="char:EOLhyphen"/>parel to convey them out of priſon, and to ſtay and anſwer in their place, winning the hearts of con<g ref="char:EOLhyphen"/>querors by love of the firſt to become their ſecond husbands, killing their living bodies to lye by their corpes; drinking their aſhes to interre them in their bowels; at the ſight of their bloody coat ſwooning, travailing &amp; lying, eating hot coles to conſume the<g ref="char:cmbAbbrStroke">̄</g> for want of other weapons; in baniſhment, becom<g ref="char:EOLhyphen"/>ing ſlaves and exiles, keeping their houſe and children at home, notwithſtanding all their abuſes and indignities abroad; not enduring life, if hus<g ref="char:EOLhyphen"/>bands muſt die; opening a veine, to bleed and die with them in the bath; forſaking rich fortunes to go barefoot for a Scholars fancy, embracing both bodies to precipitate themſelves in the ſea to end an incurable conſumption; refuſing Queenſhips, and preparing poiſons for joy-ſops, rather then marry to their husbands murtherers keeping their chambers for a years ſpace, and not ſo much as looking out at windows; ſtriving for precedence to be buried alive with their dead husbands;
+<note place="margin">
+                  <hi>Calviſ. in Con<g ref="char:EOLhyphen"/>rad.</hi> 2.</note> in a ſiege, carrying them on their backs for their beſt goods, ingeni<g ref="char:EOLhyphen"/>ouſly deluding the intent, and winning the conſent
+<pb n="23" facs="tcp:65070:16"/>of conquerors, bearing their beloved over the ſnow, leſt his footſteps ſhould betray their meeting and avenues, bearing each others burden, and fulfilling the law of Love, <hi>Gal</hi> 6. Who deſires more exam<g ref="char:EOLhyphen"/>ples of the love of women, may find in every age and climate ſome to country, ſome to parents, ſome to children, and ſome to husbands, I hope good ſtore of company. But I will end at home, with one an example of Queen <hi>Hellen,</hi> whoſe pillars and ſta<g ref="char:EOLhyphen"/>tues deſerve to ſtand as <hi>Mary's</hi> boxes, but unbro<g ref="char:EOLhyphen"/>ken, to the end of the world, to witneſſe her work, and preach by the way her memorial, who ſuckt with her lips the poiſoned wound received in wars,
+<note place="margin">
+                  <hi>Speed. in Ed.</hi> 1.</note> to ſave her husband <hi>Edwards</hi> life. We have lately had one more at home, whom tis hard to ſay who loved moſt; but theſe are parted, and I know not how to apply to them the active or the paſſive ſenſe implyed in my Text.</p>
+            <p>I have been long on this Bow of love, bent on both ſides, but I truſt the women will not think it ſo, as long as tis in commendation of that ſex; nor the men to gruge them this garland, ſo long as here is but one in their ſex to exceed them all, whoſe love ſurpaſſed the love of women.
+<note place="margin">
+                  <hi>Uſe</hi> 1.</note> Let this ſtand as to this uſe, for a monument to the men <hi>hus<g ref="char:EOLhyphen"/>bands love your wives, and be not bitter unto them,</hi> for <hi>Juno</hi>'s marriage-ſacrifice expels the gall; and to the women, be it as the pillar of ſalt to ſeaſon their manners, and to keep them ſweet and lovely to their husbands: to both, to ſet one another inter<g ref="char:EOLhyphen"/>changeably as ſeales upon their hearts,
+<note place="margin">Cant 8.6, 7.</note> and ſignets on their armes: <hi>for love is ſtronger then death, and more hardy then the grave; her coales are of
+<pb n="24" facs="tcp:65070:17"/>fire breaking out into a vehement flame: much wa<g ref="char:EOLhyphen"/>ter cannot quench love, neither can the flouds drown it.</hi>
+            </p>
+            <p>This is the love that paſt betwixt <hi>Jonathan</hi> and <hi>David,</hi> that like <hi>Hippoc.</hi> twins did impart joys and ſorrows one to another, and which I have endea<g ref="char:EOLhyphen"/>vour'd to recommend to you, in this maſterpiece of love in the old Teſtament, which is the character of a true diſciple of the new; Saint <hi>Pauls</hi> moſt ex<g ref="char:EOLhyphen"/>cellent way, and Saint <hi>Johns</hi> all-ſufficient exerciſe; who in age not able to aſcend the pulpit, and carried to Church, uſed to ſay no more, but <hi>my little children love one another;</hi> and being askt by his diſciples the reaſon of ſo frequent repetition of theſe words,
+<note place="margin">
+                  <hi>Perald. To.</hi> 1. <hi>cap.</hi> 8.</note> anſwered, <hi>Quia praeceptum Domini eſt, &amp; ſi ſolum fiat ſufficit,</hi> Tis the Lords command, if this be done, then all is done.</p>
+            <p>Where alſo I might ſeaſonably ſhut up my ſay<g ref="char:EOLhyphen"/>ings, were it not where <hi>Jonathans</hi> part goes out, as acted, there onr ſecond <hi>Jonathan,</hi> this much lamen<g ref="char:EOLhyphen"/>ted perſon ſhould come in: on whom deaths ſable mantle here hath overſpread it ſelf, and on whom this leſſon of the Bow with <hi>David</hi>-like affection, may be playd &amp; wept anew,
+<note place="margin">I'arallels.</note> as being with little va<g ref="char:EOLhyphen"/>riation fit parallels in circumſtance of life, and ſome ſimilitude of death; names anſwering in man<g ref="char:EOLhyphen"/>ners, and natures all agreeing: for which let me be<g ref="char:EOLhyphen"/>ſpeak your eares and affections for ſome ſpare mi<g ref="char:EOLhyphen"/>nutes, and ſo an end.</p>
+            <p>For their deſcent and family,
+<note place="margin">
+                  <hi>Parallel</hi> 1.</note> 
+               <hi>Solomon</hi> tells us that the glory of children are their fathers; <hi>Jona<g ref="char:EOLhyphen"/>than</hi> was of the tribe of <hi>Benjamin,</hi> unattainted for treaſon or apoſtaſy: Saint <hi>Paul</hi> could boaſt of this,
+<pb n="25" facs="tcp:65070:17"/>if that Chriſt had not been in the ballance, and our <hi>Jonathan</hi> of the ancient family of the <hi>Lucies,</hi> whoſe loyalty to my report, was never yet impeacht, but as <hi>Jonathan</hi> to <hi>Saul, Artabanus</hi> to <hi>Cinnamus,</hi>
+               <note place="margin">Sir <hi>Tho.</hi> E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iol. <hi>lib.</hi> 3. <hi>cap.</hi> 6.</note> or <hi>Fer<g ref="char:EOLhyphen"/>dinando</hi> the Protector to the <hi>Caſtilian</hi> Princes, faith<g ref="char:EOLhyphen"/>fully rendred and performed. For religion, as <hi>Jona<g ref="char:EOLhyphen"/>than</hi> profeſt and maintained the faith of <hi>Abraham</hi> and <hi>Iſrael</hi> his fathers, ſo he the Church of England, eldeſt daughter to Rome, planted here by the A<g ref="char:EOLhyphen"/>poſtles of Chriſt, confirmed and propagated by King <hi>Lucius,</hi> without a licenſe from the <hi>Pope;</hi> ma<g ref="char:EOLhyphen"/>king ſome ſuite for his counſel, but owing none to his court: which religion came along, though leſſe viſible in her profeſſors, like thoſe rivers that runne under ground, or as the <hi>Orinoque</hi> thorough the ſalt ſea; retaining ſtill her freſher water, untill at laſt it brake forth again, and was conſpicuous to the world in the confeſſion of <hi>Auguſta,</hi> and the proteſtation at <hi>Spiers,</hi> and the Apologies of the Church of <hi>England.</hi>
+            </p>
+            <p>A religion like Chriſt its own Law-giver, <hi>the firſt and the laſt,</hi> the true and pure Elixar,
+<note place="margin">Rev. 1.17.</note> drawn out of the new Teſtament, and into that (caſting off all ſcum and froth of corrupt times contracti<g ref="char:EOLhyphen"/>on) at laſt reſolving it ſelf; for when death calls the adverſaries to the bar, and gives them the book to atteſt the whole truth, &amp; nothing but the truth, then <hi>Bellarmine</hi> untwiſts with <hi>Penelope</hi> his laborious webb of workes, and makes up the whole piece with the onely <hi>Tutiſſimum</hi> of truſt in Gods mercy, for fear of vain-glory and uncertainty of mans righte<g ref="char:EOLhyphen"/>ouſneſs; and in this mind and religion he makes his laſt wil, with <hi>Lord have mercy on me,</hi> not as a rewarder
+<pb n="26" facs="tcp:65070:18"/>of Merits,
+<note place="margin">Geor. D. of Saxonic.</note> but as an almoner of Pardons. Another great Lord, a great Anti-proteſtant in his life, is per<g ref="char:EOLhyphen"/>ſwaded at his death by his Chancellor, to the truth of his own uſual ſaying: he is the beſt Bow-man that ſhootes next to the mark; and ſo rejecting all other aimes given by his Prieſts dies Proteſtant,
+<note place="margin">See <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enrad. Dieteric. Dom. paſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p.</hi> 2. <hi>obſ.</hi> 1.</note> fixing the arrow of his faith in the onely and pure white of Chriſts merits: A religion which Father <hi>Sherer</hi> commends to his penitent at laſt, without mention of his former ambageous trifles; the Confeſſor confeſſing to the ſick, Sir, we uſe to deal one way with the ſound and well, but another with the ſick and weak. Thus the wounded Fowl betakes her ſelf to firm land and leaving her vagaries in the water, as <hi>Balaam,</hi> all his Eſſayes againſt the truth of <hi>Iſrael,</hi>
+               <note place="margin">Num. 23.10.</note> cries out, <hi>Let me die the death of the the proteſtant righteous, and let my laſt end be like unto his.</hi>
+            </p>
+            <p>Of this religion was the generation of our wor<g ref="char:EOLhyphen"/>thies fathers to three or foure aſcents; whoſe no<g ref="char:EOLhyphen"/>ble examples have watered theſe parts, as the four rivers falling from the mountaines of the Moon watered Paradiſe. In this religion, to ſee and ob<g ref="char:EOLhyphen"/>ſerve his Bow, and bent, his practiſe in his timely readineſs like a morning ſtarre, or Lucifer, reſorting and calling out his family to the publick ſervice of God, how have I been comforted and cheared! and for the order and harmony in private and at home,
+<note place="margin">Jerom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I may ſay with <hi>Jerom, Videbar mihi intereſſe choris Angelorum,</hi> Methought I was among the Quire of Angels: and when the bow of death gave him that lamentable blow, of which though he left his life, yet he took his religion away with
+<pb n="27" facs="tcp:65070:18"/>him, what time he made his compellation to the witneſſes round about him, that as in the profeſſion of the Church of England he had lived, ſo he re<g ref="char:EOLhyphen"/>ſolved to die; and in that mind he departed. To adde a teſtimony of his own, (not ſetting aſide the brethen of the <hi>Allobrogick</hi> plat-form) good God, how didſt thou incline his heart with <hi>Jonathan</hi> to <hi>Samuel,</hi> and the men of God, to the Clergy con<g ref="char:EOLhyphen"/>ſtant to their order, and of the Orthodox affection! Let the houſe of <hi>Aaron</hi> now confeſſe, what ſignal loves they have received, as if his houſe had been a <hi>Naioth</hi> or Colledge for the entertainment of ſcho<g ref="char:EOLhyphen"/>lars, and an Academy for their reſort, his nature be<g ref="char:EOLhyphen"/>ing compoſed as <hi>Daniels, Iſh chemdoth,</hi> a man of de<g ref="char:EOLhyphen"/>ſires, or a deſirable man; as <hi>Cymbalum mund,</hi>
+               <note place="margin">Dan. 10, 11. <hi>Palamed.</hi>
+               </note> to in<g ref="char:EOLhyphen"/>vite them, and his various expreſſions, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Nightingal of the Muſes to detaine them, received with ſuch lowly greeting, entertained with ſuch ſmiling and lovely embraces,
+<note place="margin">
+                  <hi>Theodaret.</hi> 5.7.</note> fed with ſuch wholeſome diſhes, lodged in the choiceſt chambers, accompanied with ſo gratefull a pre<g ref="char:EOLhyphen"/>ſence, diſmiſt with ſuch courteous adieus; as if <hi>Jo<g ref="char:EOLhyphen"/>nathan</hi> had ſtrived to ingratiate <hi>David,</hi> or <hi>Samuel; Theodoſius</hi> the B.
+<note place="margin">Ambroſ. in ob. Val.</note> 
+               <hi>Meletius</hi> with kiſſing his eyes or lips, or <hi>Valentinian</hi> Saint <hi>Ambroſe, Quem Salutem ſibi quandam venturam arbitrabatur,</hi> whom when he ſaw, he thought ſome ſpecial healthfulneſs was coming towards him.</p>
+            <p>And when maturity invited him to mariage, who was the choiceſt pearl in his eye, but the vertuous <hi>Margaret,</hi> allyed collaterally to that <hi>mother of pearle,</hi> his late deceaſed parent? To which choice he was not invited onely by the eyes for beauty; that
+<pb n="28" facs="tcp:65070:19"/>Moon is ſoon clouded, changed or Eclipſed; nor by the fingers, which values a woman no higher then her portion; nor by the eares, which by credu<g ref="char:EOLhyphen"/>lity is often cheated with reports; but by <hi>Solomons</hi> character,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.10, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>Her price is farre above pearls, and let her own workes praiſe her in the gates:</hi> In this his choice he ſeems to have had a mindful reflection on that name and merit in his mother, who like another <hi>Rachel,</hi>
+               <note place="margin">Ruth 4 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> did build the houſe of <hi>Iſrael,</hi> and did fa<g ref="char:EOLhyphen"/>mouſly in <hi>Bethlehem</hi> that houſe of bread.</p>
+            <p>Here the armes of <hi>Lucie</hi> and <hi>Spencer</hi> were en<g ref="char:EOLhyphen"/>quartered and enclaſped in one coate, the Pike<g ref="char:EOLhyphen"/>fiſh taken in a net or knot.</p>
+            <q>
+               <l>Here <hi>Lucie</hi> with his match is met,</l>
+               <l>As taken with a <hi>Spencers</hi> net.</l>
+            </q>
+            <p>
+               <hi>Eros</hi> and <hi>Anteros,</hi> love and relove, ſo lively acting interchangeably their parts, that (oh the pitty they were ſo ſoon parted!) the fight would have made a wiſe mans heart rejoyce to ſee it; ſo little or no gall was there in this <hi>Junoes</hi> ſacrifice, but all the water turned into wine, <hi>John</hi> 2. and may ſhe bear alſo his religion, name, love, and juſt intereſt in eſtate, as his coat of armes, in honour and memo<g ref="char:EOLhyphen"/>rial of ſuch a <hi>Jonathan.</hi>
+            </p>
+            <p>And could my ſpeech reach to the ears of all his brothers and ſiſters, I would appeal to their report, whether the loſſe of their late loving and provident parents was not much eas'd and lightned by his ſup<g ref="char:EOLhyphen"/>porting hand, becoming a ſecond father in perfor<g ref="char:EOLhyphen"/>mance, and a ſecond mother in compaſſion; how did this Lucifer ſend light, morning-influence &amp; motion to fortifie their matches, &amp; improve their fortunes
+<pb n="29" facs="tcp:65070:19"/>in all proceedings, ſo long as he appeared oriental, Lord of the houſe, and in a right aſpect or conjuncti<g ref="char:EOLhyphen"/>on with thoſe of leſſer magnitudes; exceeding the examples of this age, as much as <hi>Jonathan</hi> did of his, or the morning ſtarre, the ſcarce appearing twink<g ref="char:EOLhyphen"/>lers of the times.</p>
+            <p>And you his Tenants and ſervants, whom he might ſay with <hi>Pyrrhus,</hi> he never ſent away to wear black clothes in ſorrow for his acts, how <hi>you that have been faithfull in few things, hath he not made rulers over many?</hi> and if you like ſtones ſhould hold your peace, the Farmes, Leaſes and Eſtates for life would ſpeak, by him granted and confirmed; ſay Sirs, for that little model of com<g ref="char:EOLhyphen"/>mands in his courtly ſervice, found you not a great appearance of the graces in his rewards? he hath put the proverb out of date, an old ſerving-man and a new gentleman in the place; how many lar<g ref="char:EOLhyphen"/>geſſes to his lacquais, ſuites of cloths, with <hi>Jonathan,</hi> hath he put off to inveſt and make known his favo<g ref="char:EOLhyphen"/>rites withal? And now may you worthily put on your mourning weeds for <hi>Jonathan:
+<note place="margin">1 Sam. 1.24.</note> ye daughters of Sion weep for him that clothed you in ſcarlet, and put ornaments of gold upon your apparel:</hi> and ſome whoſe lives he ſought to ſave with the hazard of his own.</p>
+            <p>To ſpeak all in a few words, his houſe was a <hi>Bethgerim</hi> for hoſpitality of ſtrangers, a <hi>Bethlehem,</hi> an houſe of bread for the needy bellies, the poole of <hi>Betheſdah</hi> for relief of waiters in her porches;
+<note place="margin">Lucius &amp; Aci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> both a<g ref="char:EOLhyphen"/>like.</note> and the houſe of the <hi>Lucies</hi> joyned to the <hi>Spencers,</hi> was, pardon the compariſon, thoſe two fiſhes which by the bleſſing of the Son of God, did feed five thouſand perſons, and twelve baskets for the poor.</p>
+            <pb n="30" facs="tcp:65070:20"/>
+            <p>If the Bow-ſong on <hi>Jonathan</hi> ſuite not aright in all proportion, ſure I am that with <hi>Davids</hi> leave, we may properly intitle his praiſe to the <hi>Shoſhanim,</hi> and tune of the Flower de Luce, for ſix leaves in that flower diſplaying themſelves.</p>
+            <p>He was a true Flower de Luce, (to loſe no<g ref="char:EOLhyphen"/>thing of his name) which open'd and ſhut his fa<g ref="char:EOLhyphen"/>vours with the Sun of righteouſneſs, in a ſympathy with his Saviour Chriſt, living and dying about the ſame age, and now following the Lamb whereſoe<g ref="char:EOLhyphen"/>ver he goeth.</p>
+            <p>His ſix leaves of mercy to the body expoſing themſelves; <hi>Viſito, Poto, Cibo, Redimo, Tego, Colligo, Condo,</hi> I View, Drink, Feed, Redeem, Bring home, and Bury, were accompanied with the ſix ſpires of ſpiritual aſſiſtance to complete and anſwer them;</p>
+            <p>
+               <hi>Conſule, Caſtiga, Solare, Remitte, Fer, Ora;</hi>
+            </p>
+            <p>Counſel, Reprove, Forgive, Bear, Pray, Make<g ref="char:EOLhyphen"/>merry.</p>
+            <p>A Flower de Luce.</p>
+            <p n="1">1 Rooted ſo faſt in his religion, that no wind or ſtorm could ſtir or alter him.</p>
+            <p>For his candor and ſincerity, in which vertue he was ſo plainly viſible and tranſparent, that his bo<g ref="char:EOLhyphen"/>ſome was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">1 Cor. 5.8.</note> expoſed to the Sun, and might be ſeen thorough, ſincere, with an heart ſo clear, perſpicuous and plaine, that like <hi>Druſus</hi> houſe full of windows, all that was contained within, might be ſeen without, as the Poet,
+<q>
+                  <lg>
+                     <l>—<hi>Cui meliere luto</hi>
+                        <note place="margin">Juvenal.</note>
+                     </l>
+                     <l>
+                        <hi>finxit praecordia Titan.</hi>
+                     </l>
+                  </lg>
+                  <pb n="31" facs="tcp:65070:20"/>
+                  <lg>
+                     <l>Whom the pure Sun with better clay,</l>
+                     <l>Made a true heart for yea and na y.</l>
+                  </lg>
+               </q>
+            </p>
+            <p n="2">2 So candid and fair conditioned to treat, ſo oyly and ſoft to handle, ſo innocent and harmleſſe to act, that <hi>Adam</hi> ſeem'd to have lent him little matter to be offended, and grace leſſe mind to give offence.</p>
+            <p n="3">3 So coole a temper in his nature, that as the lilly water allays and cooles all burning ſores and apoſtems, ſo he by example and ſweet words loved to aſſwage heart-burnings, ſwelling and fallingout of neighbours.</p>
+            <p n="4">4 So white and ſpotleſs in the virgin and his mar<g ref="char:EOLhyphen"/>ried life, that he eſteem'd and made his chaſtity moſt odoriferous to all in a bed undefiled and kept whole; but if broken or bruiſed, he abhorred as too rank a ſmel for him, and moſt unſavoury in his family.</p>
+            <p n="5">5 So open and expanſed in his love and bounty ſpreading on every ſide, that his diſhes and veſſels were as the baskets and bowls of the Lilly, full of refreſhment, ornament and medicine to his friends, all graced with ſuch an humble condeſcent, that you might ſay, there was <hi>the roſe of Sharon,
+<note place="margin">Cant. 2.1.</note> and the lilly of the Valleys.</hi>
+            </p>
+            <p>A Flower de Luce broad in his blowed leaves up<g ref="char:EOLhyphen"/>wards towards heaven,
+<note place="margin">6.</note> but contracted and narrow in the bottom toward the earth; being large and heavenly minded in his contemplation of that land and manſion, eſteeming all his lands and houſes not worth a thought to think on, nor a look with
+<pb n="32" facs="tcp:65070:21"/>
+               <hi>Lots</hi> wife to reflect upon, no nor ſo much as one ſi<g ref="char:EOLhyphen"/>ſters tear to fall for the loſſe of them, going as wil<g ref="char:EOLhyphen"/>lingly to his grave with his body as to his bed, and ſending forth his ſoul as chearfully as <hi>Noahs</hi> dove flew from the Arke when the flood was paſt, or a priſoner to be enlarged to a palace. In a time large enough for him to have lived longer, although determined of God, whoſe eternity meets and com<g ref="char:EOLhyphen"/>plies with all times, but enforceth none; in the Au<g ref="char:EOLhyphen"/>tumn, that deadly ſeaſon and fall of the year, when the Sun falls from his height, the dayes from their length, the Elements from their beauty, the Corne under the ſickle, Flowers from the ſtalk, Leaves from the trees, Fruits from the boughs, men from their families, now the lovely <hi>Adonis</hi> of all delight is rooting up by the dirty Bore of win<g ref="char:EOLhyphen"/>ter haſting on, enough to make women ſuperſtiti<g ref="char:EOLhyphen"/>ous to weep for this <hi>Tamuz,</hi>
+               <note place="margin">Ezek. 8.14.</note> the ſweet-heart of the Sun; and cauſe enough for us to take on with <hi>David, for our Sun</hi> is now gone down, of whom the world was not worthy; our <hi>Adonis</hi> is with<g ref="char:EOLhyphen"/>drawn by death, our Brother <hi>Jonathan</hi> is in the duſt. But ſtay <hi>Rachel,</hi> thy work ſhall be rewarded, his body ſhall return in the day of Renewing, when the great Lapidary ſhall have ripp'd off the earthy bark of this diamond,
+<note place="margin">Mal. 3.7.</note> and <hi>ſhall make up his jewels,</hi> the righteous, and ſuch as do likewiſe ſhall ſee and enjoy him again: the ſtay wil ſeem no longer than a ſweet nights ſleep, and the time no more to you than the years paſt before you were born. But methinks I ſee his ſoul and better part ere this be<g ref="char:EOLhyphen"/>come a gainer by this bleſſed change: The Bow of Death hath not taken this within its reach or di<g ref="char:EOLhyphen"/>ſtance,
+<pb n="33" facs="tcp:65070:21"/>it is paſt the ſtroke or aim of all theſe earthly Archers, and having broken thorough the black colour and cloud of death,
+<note place="margin">Rev. 4.3.</note> ſhines like the Rainbow in the green colour of Gods reflecting grace, until both ſoul and body united ſhall aſcend higher, even to the bright <hi>Aurora</hi>-colour of full glory.</p>
+            <p>And in the mean time, learn Clergy, Laity, Widow and Poſterity, Brethren and Siſters, Te<g ref="char:EOLhyphen"/>nants and Servants, Strangers and Familiars, Friends and Poor folks, not to furniſh the paſquils of mens ears with libels, jeers, or reproches they cannot hang upon his worthy Pillar, but fill it with the inſcriptions of complaints and praiſes, commenda<g ref="char:EOLhyphen"/>tions and Panegyricks; and learn the leſſon, if not to excel or equal, yet to aim at, or to imitate; which was the end of <hi>David</hi>'s Leſſon, and ſhall be of mine.</p>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
